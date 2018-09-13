@@ -1,2 +1,5 @@
 # Hello-Wolrd
-Thiw is my first repository in github
+This is my first repository in github
+My name is Helen 
+I am new in development.
+I change everything
